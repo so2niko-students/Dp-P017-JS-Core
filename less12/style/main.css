@@ -1,0 +1,16 @@
+.out-search{
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.out-search p{
+    padding: 5px;
+    margin: 0;
+}
+.out-search p:hover{
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+    font-size: 9px;
+    padding: 4px 5px;
+}
